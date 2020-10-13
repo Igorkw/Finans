@@ -1,0 +1,54 @@
+#home{
+    background: #ffc107;
+    color: white;
+}
+.android:hover{
+    color: #9FBF39;
+}
+.apple:hover{
+    color: #6C6C6C;
+}
+#nav-principal .nav-link:hover{
+    color: white;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a{
+    margin: 5px 15px;
+}
+
+.fa-facebook{
+    color: #0A80EC;
+}
+.fa-facebook:hover{
+    color: #ffc107;
+}
+
+.fa-instagram{
+    color: #F44B48;
+}
+.fa-instagram:hover{
+    color: #ffc107;
+}
+
+.fa-twitter{
+    color: #1C9CEA;
+}
+.fa-twitter:hover{
+    color: #ffc107;
+}
+
+.fa-youtube{
+    color: #F70000;
+}
+.fa-youtube:hover{
+    color: #ffc107;
+}
+
+.links-rodape a{
+    color: #d19e04;
+}
